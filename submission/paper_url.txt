@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://github.com/sneha27patel/flyrank-ml-internship/blob/main/work/capstone_research_paper.md
