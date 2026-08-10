@@ -49,3 +49,24 @@ To make my FL-04 pipeline an agent, I would need to add:
 3. A DECISION LOOP: After training, the agent checks Precision at 50. If below 0.70, it autonomously adjusts max_depth or removes noisy features and retrains. If above 0.70, it exports the final ranked CSV.
 
 The key difference: instead of me manually checking scores and re-running cells, the agent would loop automatically until the goal is satisfied.
+---
+
+## 5. MCP Tool Evidence
+
+### Task 1 - Listing Repository Files
+
+The GitHub MCP server was used to list the files in the work folder of my repository.
+
+![Task 1 MCP Evidence](FL05_Task1.png)
+
+### Task 2 - Reading FL-04 Workflow
+
+The GitHub MCP server was used to read my FL-04 workflow and identify its four predefined steps.
+
+![Task 2 MCP Evidence](FL05_Task2.png)
+
+### Task 3 - Reading FL-05 MCP Information
+
+The GitHub MCP server was used to read my FL-05 file and identify the three MCP primitives.
+
+![Task 3 MCP Evidence](FL05_Task3.png)
